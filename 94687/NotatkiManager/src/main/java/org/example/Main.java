@@ -1,4 +1,4 @@
-// nry albumu: 94681 Grelak, 95958 Garlicki, 94687 Basista, 96065 Majewski
+// nry albumu: 94681 Grelak, 94687 Basista, 96065 Majewski
 package org.example;
 
 public class Main {
